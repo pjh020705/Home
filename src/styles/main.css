@@ -1,0 +1,18 @@
+.main-container {
+    text-align: center;
+    margin: 40px 0;
+  }
+  
+  .main-image {
+    max-width: 80%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .main-caption {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
